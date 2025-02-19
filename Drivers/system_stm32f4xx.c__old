@@ -1,0 +1,5 @@
+#include "stm32f4xx.h"
+
+void SystemInit(void) {
+    // Set up the system clock (optional for now)
+}

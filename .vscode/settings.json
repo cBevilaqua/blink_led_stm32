@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/Inc",
+        "${workspaceFolder}/Drivers"
+    ],
+    "C_Cpp.default.defines": [
+        "STM32F407xx"
+    ]
+}
